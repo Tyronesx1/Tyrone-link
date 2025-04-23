@@ -1,1 +1,49 @@
-# Tyrone-link
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Tyrone</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('https://source.unsplash.com/1600x900/?nature'); /* pode trocar a imagem aqui */
+      background-size: cover;
+      background-position: center;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      padding: 50px 0;
+      font-size: 48px;
+      font-weight: bold;
+      background: rgba(0, 0, 0, 0.5);
+    }
+
+    .btn-instagram {
+      margin-top: 200px;
+      padding: 15px 30px;
+      font-size: 20px;
+      background-color: #E1306C;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .btn-instagram:hover {
+      background-color: #c1275a;
+    }
+  </style>
+</head>
+<body>
+  <header>Tyrone</header>
+
+  <a href="https://instagram.com/seu_usuario" target="_blank" class="btn-instagram">
+    Meu Instagram
+  </a>
+</body>
+</html>
