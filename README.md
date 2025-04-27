@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Tyrone</title>
+  <title>Nanu</title>
   <style>
     body {
       margin: 0;
@@ -42,7 +42,7 @@
 <body>
   <header>Tyrone</header>
 
-  <a href="https://instagram.com/seu_usuario" target="_blank" class="btn-instagram">
+  <a href="https://www.instagram.com/mahpeep._?igsh=dnpsMzc0M2d0Ymlz" target="_blank" class="btn-instagram">
     Meu Instagram
   </a>
 </body>
